@@ -1,0 +1,22 @@
+.inputText {
+  border-radius: 15px;
+  border: none;
+  padding: 10px;
+  max-width: 150px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-bottom: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  max-width: 100px;
+  border: none;
+  border-radius: 10px;
+  background-color: rgb(167, 227, 249);
+}

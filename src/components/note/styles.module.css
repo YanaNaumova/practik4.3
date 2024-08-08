@@ -1,0 +1,8 @@
+.taskContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  background-color: rgb(167, 227, 249);
+  border-radius: 10px;
+  padding: 10px 5px;
+}
